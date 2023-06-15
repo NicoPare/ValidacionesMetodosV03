@@ -73,7 +73,7 @@ namespace ValidacionesMetodosV03
                 Console.WriteLine($"Fecha de ingreso: {alojamiento.FechaIngreso}");
                 Console.WriteLine($"Fecha de salida: {alojamiento.FechaSalida}");
                 Console.WriteLine($"Nombre del alojamiento: {alojamiento.NombreAlojamiento}");
-                Console.WriteLine($"Tarifa: {alojamiento.Tarifa}");
+                Console.WriteLine($"Tarifa por día: {alojamiento.Tarifa}");
                 Console.WriteLine($"Nombre de la habitación: {alojamiento.NombreHabitacion}");
                 Console.WriteLine($"Calificación: {alojamiento.Calificacion}");
                 Console.WriteLine();
